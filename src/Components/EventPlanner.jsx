@@ -37,6 +37,16 @@ const EventPlanner = () => {
                     <li>Art exhibitions</li>
                     <li>Cultural events</li>
                 </ul>
+
+                <ul>
+                    <h2>Community Events:</h2>
+                    <li>Fundraising events</li>
+                    <li>Charity galas</li>
+                    <li>Volunteer drives</li>
+                    <li>Neighborhood block parties</li>
+                    <li>Community festivals</li>
+                    <li>Cultural celebrations</li>
+                </ul>
             </section>
 
             <section className="features"></section>
